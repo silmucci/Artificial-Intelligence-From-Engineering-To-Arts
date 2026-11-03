@@ -15,13 +15,10 @@ Il progetto utilizza il **4Q Audio Emotion Dataset**, basato sui quattro quadran
 ### Classificazione delle emozioni
 
 Le emozioni sono suddivise in quattro classi:
-
-| Quadrante | Emozione | Valenza | Arousal |
-|---|---|---|---|
-| Q1 | Happy | Positiva | Alto |
-| Q2 | Tense | Negativa | Alto |
-| Q3 | Sad | Negativa | Basso |
-| Q4 | Calm | Positiva | Basso |
+- Happy
+- Tense
+- Sad
+- Calm
 
 Vengono confrontati quattro modelli di Machine Learning:
 
